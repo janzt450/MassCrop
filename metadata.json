@@ -1,0 +1,5 @@
+{
+  "name": "MassCrop - Batch Image Processing",
+  "description": "A high-performance batch image cropping tool that processes all files locally in your browser. Maintain privacy and speed with unified controls and bulk downloading.",
+  "requestFramePermissions": []
+}
