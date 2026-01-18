@@ -1,0 +1,22 @@
+
+{
+  "name": "MassCrop Batch Processor",
+  "short_name": "MassCrop",
+  "description": "High-performance offline batch image cropper.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0c14",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/1a1f33/3b82f6?text=MC",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/1a1f33/3b82f6?text=MassCrop",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

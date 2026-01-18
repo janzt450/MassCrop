@@ -21,6 +21,7 @@ export interface ImageData {
   errorMessage?: string;
   croppedUrl?: string;
   progress: number;
+  crop?: PixelCrop;
 }
 
 export interface ProcessingSettings {
